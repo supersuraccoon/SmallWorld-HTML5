@@ -1,0 +1,12 @@
+{
+    "pre_order":
+    [
+    ],
+    "post_order":
+    [
+    ],
+    "skip":
+    [
+        "lib/Cocos2d-html5-v2.2.1.min.js"
+    ]
+}
